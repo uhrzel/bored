@@ -1,4 +1,5 @@
-let letter = "Hi guys san o kamo balik skwelahan kay manglibre ko tubig";
+let letter =
+  "Hi guys! San o kamo balik skwelahan? 'kay manglibre ko tubig.🌊🌊 ╭∩╮(꘠◞ ꘠)╭∩╮";
 
 let symbols = ["!", "@", "#", "$", "%", "&", "*", "(", ")", "[", "]", "{", "}"];
 let is_index = 0;
