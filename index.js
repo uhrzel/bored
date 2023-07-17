@@ -1,5 +1,5 @@
 let letter =
-  "Hi guys! San o kamo balik skwelahan? 'kay manglibre ko tubig.🌊🌊 ╭∩╮(꘠◞ ꘠)╭∩╮";
+  "This photo breaks my brain , my brain suddenly stopped working. I had to think fast! So I removed my brain, and put some soil inside, connect the nerves and light it up! I'm a rugby boy. 🤩🤩🤩╭∩╮(꘠◞ ꘠)╭∩╮";
 
 let symbols = ["!", "@", "#", "$", "%", "&", "*", "(", ")", "[", "]", "{", "}"];
 let is_index = 0;
